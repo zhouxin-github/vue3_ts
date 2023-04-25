@@ -28,7 +28,7 @@
     </el-form>
   </div>
 </template>
-
+<!-- 测试提交到github -->
 <script lang="ts">
 import { reactive, defineComponent, toRefs, ref } from "vue";
 import { LoginData } from "../type/Login";
